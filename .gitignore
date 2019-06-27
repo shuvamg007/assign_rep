@@ -1,0 +1,6 @@
+text_*
+test_*
+save_*
+icdar_data/
+__pycache__/
+__MACOSX/ 
