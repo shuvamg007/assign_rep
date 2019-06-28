@@ -2,4 +2,5 @@ fire
 numpy
 torchvision
 visdom
+pretrainedmodels
 git+https://github.com/pytorch/tnt.git@master
